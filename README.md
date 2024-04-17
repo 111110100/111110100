@@ -11,3 +11,6 @@
 - ⚡ Fun fact ...
 ## Links
 LinkedIn: [https://www.linkedin.com/in/erwin-lomibao-35b84a109/](https://www.linkedin.com/in/erwin-lomibao-35b84a109/)
+Leetcode: [https://leetcode.com/111110100/](https://leetcode.com/111110100/)
+Codewars: [https://www.codewars.com/users/111110100](https://www.codewars.com/users/111110100)
+Hackerrank: [https://www.hackerrank.com/profile/elomibao](https://www.hackerrank.com/profile/elomibao)
