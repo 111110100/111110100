@@ -2,7 +2,7 @@
 ## Website
 [https://111110100.com](https://111110100.com)
 ## Stuff
-- 🔭 I’m currently working on [ph-election-smarttic](https://github.com/111110100/ph-election-smartmatic)
+- 🔭 I’m currently working on [ph-election-smartmatic](https://github.com/111110100/ph-election-smartmatic)
 - 🌱 I’m currently learning: CyberSec/Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
