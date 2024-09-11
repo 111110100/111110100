@@ -12,12 +12,12 @@ Having more than 25 years of experience in IT operations, I am a skilled IT Oper
 ---
 [![](https://visitcount.itsvg.in/api?id=111110100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Website
+# Website
 [https://erwinlomibao.com](https://erwinlomibao.com)
 ## Certifications
 * [Google Cybersecurity](https://www.credly.com/badges/e8603f3b-24e4-406c-84b6-94a032ba7264/public_url)
 * [Google IT Automation with Python](https://www.credly.com/badges/9ba8feb9-d00c-4bb7-ba29-bae37aac190a/public_url)
-## Stuff
+# Stuff
 - 🔭 I’m currently working on [ph-election-smartmatic](https://github.com/111110100/ph-election-smartmatic)
 - 🌱 I’m currently learning: CyberSec/Python
 - 👯 I’m looking to collaborate on ...
@@ -25,7 +25,7 @@ Having more than 25 years of experience in IT operations, I am a skilled IT Oper
 - � Ask me about: [ph-election-smartmatic](https://github.com/111110100/ph-election-smartmatic)
 - �📫 How to reach me ...
 - ⚡ Fun fact: worked on a student management system in [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal)
-## Links
+# Links
 - LinkedIn: [https://www.linkedin.com/in/erwin-lomibao-35b84a109/](https://www.linkedin.com/in/erwin-lomibao-35b84a109/)
 - Leetcode: [https://leetcode.com/111110100/](https://leetcode.com/111110100/)
 - Codewars: [https://www.codewars.com/users/111110100](https://www.codewars.com/users/111110100)
