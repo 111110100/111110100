@@ -15,8 +15,6 @@ Having more than 25 years of experience in IT operations, I am a skilled IT Oper
 2. Web servers (nginx, lighttpd)
 3. Python (bottle, fastapi)
 
-[![](https://visitcount.itsvg.in/api?id=111110100&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # Website
 [https://erwinlomibao.com](https://erwinlomibao.com)
 ## Certifications
