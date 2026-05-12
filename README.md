@@ -1,6 +1,18 @@
 # 💫 About Me:
-Having more than 25 years of experience in IT operations, I am a skilled IT Operations Leader who focuses on overseeing complex Linux systems, high-traffic websites, and cloud infrastructures. During my career, I have effectively guided technical teams and put into place scalable, secure, and dependable IT solutions. I have knowledge in AWS, Google Cloud, and multiple Unix-like systems. I have successfully led the digital transformation by moving old systems to the cloud and creating advanced automation tools. I have a strong passion for mentoring teams, maximizing system performance, and ensuring IT strategies are in line with business objectives.
+I am an IT Operations and Infrastructure leader with 25+ years of experience running mission‑critical Linux systems, high‑traffic media platforms, and cloud environments on AWS and GCP. I specialise in keeping complex systems fast, stable and cost‑efficient while helping teams deliver reliably.
 
+Over my career, I have:
+- Led IT operations for a national news and media site with 24/7 availability and frequent traffic spikes.
+- Planned and executed cloud migrations from legacy on‑prem systems to AWS and GCP, including autoscaling, CDN, and database modernisation.
+- Introduced automation and monitoring tools to reduce manual work, improve incident response, and increase system reliability.
+- Built and mentored operations teams, setting standards for documentation, on‑call, change management and security.
+
+Technical focus areas:
+- Linux / Unix systems administration
+- AWS (EC2, RDS, S3, ELB, CloudFront, Route 53, autoscaling)
+- Google Cloud Platform (GCP)
+- Web infrastructure for content and media (WordPress, CMS, databases, caching)
+- Networking, security, and performance monitoring
 
 # Skills
 1. Unix operating systems: Linux & FreeBSD
